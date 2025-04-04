@@ -9,7 +9,7 @@ int main()
     {
         if(i%3==0)
         {
-            cout<<"Fizz"<<endl;
+            cout<<"Fizz!"<<endl;
         }
         else
         {
